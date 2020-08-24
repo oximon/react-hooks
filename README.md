@@ -1,5 +1,8 @@
 ## Описание:
-В этом приложении использованы react хуки, такие как: useContext, createContext, useReducer, useEffect
+В этом приложении использованы react хуки, такие как: useContext, createContext, useReducer, useEffect, также github api
+В нем возможно найти пользователя github через поисковую строку, зайти в профиль, ознакомиться с краткой информацией о пользователе и перейти в профиль гитхаб.
+
+[ссылка](https://react-hooks-c194d.web.app/)
 
 ### Установка и запуск
 
